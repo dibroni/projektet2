@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ushtrimi_3_veshtir/1.0.0": {
+        "runtime": {
+          "Ushtrimi_3_veshtir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ushtrimi_3_veshtir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
